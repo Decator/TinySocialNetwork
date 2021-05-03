@@ -1,0 +1,20 @@
+{
+  "name": "tiny-social-network",
+  "version": "0.0.0",
+  "description": "This is a miniature social network project using a multitude of technologies.",
+  "repository": "https://github.com/Decator/TinySocialNetwork.git",
+  "author": "Martin Ars",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/**/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  }
+}

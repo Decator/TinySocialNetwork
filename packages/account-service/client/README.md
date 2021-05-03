@@ -1,0 +1,3 @@
+# TinySocialNetwork
+
+## Account Service - client

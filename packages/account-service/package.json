@@ -1,0 +1,9 @@
+{
+  "name": "account-service",
+  "version": "0.0.0",
+  "description": "",
+  "repository": "https://github.com/Decator/TinySocialNetwork.git",
+  "author": "Martin Ars",
+  "license": "MIT",
+  "private": true
+}
