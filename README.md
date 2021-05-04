@@ -1,5 +1,6 @@
 # TinySocialNetwork
 
-## User-Portal Service
+This is a miniature social network project using a multitude of technologies.
 
-![TinyFacebook](https://user-images.githubusercontent.com/27818419/116989517-26dc1800-acd2-11eb-9b2d-ea5816215dab.png)
+![TinySocialNetwork](https://user-images.githubusercontent.com/27818419/117073397-207d8880-ad32-11eb-9067-3d9cd4b611e8.png)
+
